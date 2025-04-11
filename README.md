@@ -4,6 +4,8 @@
 Криейту на новой версии быть!
 Сборка сосредоточена на любителей механики
 
+[Здесь](https://docs.google.com/spreadsheets/d/1mau0W5V3BSAeuWebkZdo_bFYqwXBAC12Gbay3yw4mDI/edit?usp=sharing) можно ознакомиться со списком модов.
+
 # Installation
 - Установите Minecraft 1.21.1. Выберите одну из папок (пустых) и запомните её.
 - Установите NeoForge 21.1.138, выбрав ту же папку.
